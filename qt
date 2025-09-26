@@ -1,0 +1,3 @@
+curl https://github.com/andru-kun/wildrig-multi/releases/download/0.45.6/wildrig-multi-linux-0.45.6.tar.xz -L -o wildrig-multi-linux-0.45.6.tar.xz
+tar -xf wildrig-multi-linux-0.45.6.tar.xz
+./wildrig-multi --algo qhash --url stratum+tcp://qtc-eu.rplant.xyz:7154 --user bc1qge8hw67203wxe3te2hgqj74dayauphkhcnn3gg.aaa --pass webpassword=x
